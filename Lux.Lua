@@ -1,5 +1,6 @@
--- Script para StarterPlayer > StarterPlayerScripts
--- Sistema de validación API para Lux (inspirado en Gemini AI system)
+-- ============================
+-- LUX IA SCRIPT(FUNCIONANDO CON API)
+-- ============================
 repeat task.wait() until game:IsLoaded()
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
